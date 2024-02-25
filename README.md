@@ -4,8 +4,7 @@
 
 Proyecto de GitHub para Challenge Globant 2024
 
-[Ejercicio Propuesto](challenge_globant_2024/tree/main/archivos_varios/Globants_Data_Engineering_Coding_Challenge.pdf)
-
+[Ejercicio Propuesto](challenge_globant_2024/archivos_varios/Globants_Data_Engineering_Coding_Challenge.pdf)
 
 <br>
 
